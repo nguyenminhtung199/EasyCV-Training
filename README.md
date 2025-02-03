@@ -32,8 +32,8 @@ pip install -r requirements.txt
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/classification-trainer.git
-   cd classification-trainer
+   git clone https://github.com/nguyenminhtung199/EasyCV-Training.git
+   cd EasyCV-Training
    ```
 
 2. Install dependencies:
